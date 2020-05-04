@@ -1,0 +1,1 @@
+Compile all the programs to run the server.
